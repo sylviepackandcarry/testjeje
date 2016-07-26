@@ -7,3 +7,5 @@ je rajoute des choses sur le 2eme pc
 
 
 je rajoute encore des choses
+
+correction de bug
